@@ -68,4 +68,4 @@ This project uses GitHub Actions for continuous integration and continuous deplo
 
 ---
 
-Developed by **Your Name** 💻 © 2024
+Developed by **Shreya Upadhyay** 💻 **© 2024**
