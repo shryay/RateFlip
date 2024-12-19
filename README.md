@@ -30,10 +30,11 @@ The **Currency Converter Web App** is a responsive and intuitive application bui
 Follow these steps to set up the project locally:
 
 **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/currency-converter.git
-Install the dependencies:
+```bash
+git clone https://github.com/your-username/currency-converter.git
+```
 
+Install the dependencies:
 ```bash
 npm install
 ```
@@ -44,7 +45,7 @@ npm start
 Once the app starts, it will be available at: http://localhost:3000.
 
 **Deployment**
-The project is deployed on Vercel. You can access the live version of the app here:
+The project is deployed on Vercel. You can access the live version of the app here:https://rate-flip.vercel.app/
 
 **Docker Setup**
 This project is containerized using Docker. To run the project inside a Docker container:
