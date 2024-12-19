@@ -45,7 +45,7 @@ npm start
 Once the app starts, it will be available at: http://localhost:3000.
 
 **Deployment**
-The project is deployed on Vercel. You can access the live version of the app here:https://rate-flip.vercel.app/
+The project is deployed on Vercel. You can access the live version of the app here: https://rate-flip.vercel.app/
 
 **Docker Setup**
 This project is containerized using Docker. To run the project inside a Docker container:
@@ -65,7 +65,7 @@ Once the container is running, the app will be accessible at: http://localhost:3
 **CI/CD with GitHub Actions**
 This project uses GitHub Actions for continuous integration and continuous deployment (CI/CD). With every push to the main branch, the build and deployment process is automatically triggered, ensuring that the latest changes are reflected on the live app without manual intervention.
 
-**License**
-This project is open-source and available under the MIT License.
 
-Developed by Shreya Upadhyay © 2024
+---
+
+Developed by **Your Name** 💻 © 2024
